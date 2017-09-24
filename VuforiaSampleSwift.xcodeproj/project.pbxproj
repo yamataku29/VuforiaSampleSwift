@@ -195,7 +195,7 @@
 				319677941F77862D00E9080A /* samples */,
 			);
 			name = "vuforia-sdk-ios-6-5-19";
-			path = "../../../../../Downloads/vuforia-sdk-ios-6-5-19";
+			path = "../../../../.ghq/github.com/yshrkt/VuforiaSampleSwift/VuforiaSampleSwift/vuforia-sdk-ios-6-5-19";
 			sourceTree = "<group>";
 		};
 		319677351F77862D00E9080A /* build */ = {
