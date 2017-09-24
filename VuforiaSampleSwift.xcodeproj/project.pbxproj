@@ -626,7 +626,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/VuforiaSampleSwift/vuforia-sdk-ios-6-2-9/build/lib/arm",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sputnik-apps.VuforiaSampleSwift";
+				PRODUCT_BUNDLE_IDENTIFIER = com.takuyama.VuforiaSampleSwift;
 				PRODUCT_NAME = VuforiaSampleSwift;
 				SWIFT_OBJC_BRIDGING_HEADER = "VuforiaSampleSwift/VuforiaSampleSwift-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -650,7 +650,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/VuforiaSampleSwift/vuforia-sdk-ios-6-2-9/build/lib/arm",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sputnik-apps.VuforiaSampleSwift";
+				PRODUCT_BUNDLE_IDENTIFIER = com.takuyama.VuforiaSampleSwift;
 				PRODUCT_NAME = VuforiaSampleSwift;
 				SWIFT_OBJC_BRIDGING_HEADER = "VuforiaSampleSwift/VuforiaSampleSwift-Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
