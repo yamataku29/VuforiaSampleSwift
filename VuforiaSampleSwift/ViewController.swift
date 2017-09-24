@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    let vuforiaLicenseKey = "Your License Key"
+    let vuforiaLicenseKey = "Ab1mnCf/////AAAAGQnYnO95jkL+hI5qw/lo9MVddH5f9hkVSJfteQCa24ABDt1PKR3LlsUCujeUh9mKQ1o/H3StuPjWjCNnCUfm1TR0niiWUdGsqQfB2JQKO6migRtynFlNGNERsZ7yok61ImXrut3LqOMD7+ciHDyyGL8nmgYNTP6o6IkIvBJI5Nsr+goa3F91o2mbyq0ZzdeDEauxAxg/E9agSxqLzbCVxbVF4APND7gNhm2mZTAhqwCOMqRuFJsrbv2c3Zehqpw47xLhjnae0Xhvq+wtMLw3JIHTWUgpwMcNRegYff4lxeYr0s4J384Ohu6wNNWNuaH/Xm2KgNxlCArte0K0Nc8Q8EOPvj2YaF7A/ovDf++XsBYs"
     let vuforiaDataSetFile = "Target XML File"
     
     var vuforiaManager: VuforiaManager? = nil

@@ -261,6 +261,7 @@ namespace VuforiaEAGLViewUtils
     
     // Render video background and retrieve tracking state
     Vuforia::State state = Vuforia::Renderer::getInstance().begin();
+    // FIXME
     Vuforia::Renderer::getInstance().drawVideoBackground();
     
     glEnable(GL_DEPTH_TEST);
